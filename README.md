@@ -1,1 +1,2 @@
-# Dental-Data
+# Dental-Professional
+**Exocad Professional**
